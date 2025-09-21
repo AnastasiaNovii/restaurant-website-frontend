@@ -8,8 +8,8 @@
 - Контактная информация
 #Технологии
 - HTML5
-- CSS3 (Flexbox, Grid)
-- JavaScript (ванильный)
+- CSS3
+- JavaScript
 - Адаптивный дизайн
 #Структура проекта
 restaurant-website-frontend/
